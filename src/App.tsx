@@ -1,7 +1,7 @@
 import './App.css';
-import { Carousel } from './layouts/Carousel/Carousel';
+import { Carousel } from './components/Carousel/Carousel';
 import { ExploreTopBooks } from './layouts/Homepage/ExploreTopBooks';
-import { Navbar } from './layouts/Navbar/Navbar';
+import { Navbar } from './components/Navbar/Navbar';
 
 function App() {
     return (
