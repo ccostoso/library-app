@@ -1,6 +1,6 @@
 import { Navbar } from '../../components/Navbar/Navbar';
 import { ExploreTopBooks } from '../../components/ExploreTopBooks';
-import { Carousel } from '../../components/Carousel';
+import { Carousel } from '../../components/Carousels';
 import { Heroes } from '../../components/Heroes';
 import { LibraryServices } from '../../components/LibraryServices';
 import { Footer } from '../../components/Footer';
