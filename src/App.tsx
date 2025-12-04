@@ -3,6 +3,7 @@ import { Carousel } from './components/Carousel';
 import { ExploreTopBooks } from './components/ExploreTopBooks';
 import { Navbar } from './components/Navbar/Navbar';
 import { Heroes } from './components/Heroes';
+import { LibraryServices } from './components/LibraryServices';
 
 function App() {
     return (
@@ -11,6 +12,7 @@ function App() {
             <ExploreTopBooks />
             <Carousel />
             <Heroes />
+            <LibraryServices />
         </>
     );
 }
